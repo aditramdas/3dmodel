@@ -5,5 +5,6 @@
 1) React
 
 # How to Run
+1) Clone the Repo
 
 
