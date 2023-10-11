@@ -3,6 +3,8 @@
 
 # Libraries Used
 1) React
+2) WebGL
+3) GSAP
 
 # How to Run
 1) Clone the Repo
